@@ -1,0 +1,6 @@
+train: /Users/steven/Library/CloudStorage/GoogleDrive-hvtdung@hcmiu.edu.vn/My Drive/CyberTech/Ship Detection/Code/input/ships-in-aerial-images/ships-aerial-images/train/images
+val: /Users/steven/Library/CloudStorage/GoogleDrive-hvtdung@hcmiu.edu.vn/My Drive/CyberTech/Ship Detection/Code/input/ships-in-aerial-images/ships-aerial-images/valid/images
+test: /Users/steven/Library/CloudStorage/GoogleDrive-hvtdung@hcmiu.edu.vn/My Drive/CyberTech/Ship Detection/Code/input/ships-in-aerial-images/ships-aerial-images/test/images
+
+nc: 1
+names: ['ship']
